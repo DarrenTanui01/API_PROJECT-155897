@@ -44,7 +44,7 @@ Here's a basic example of how to use the TransportSystem:
 #route = Route("Downtown", "Suburb", 5.00, "09:00 AM")
 
 # Add route to vehicle
-bus.add_route(route)
+# bus.add_route(route)
 
 # Get vehicle info
 #print(bus.get_info())
